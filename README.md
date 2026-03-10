@@ -1,4 +1,5 @@
 **Best with:** Full-stack • TypeScript • React Native / Next.js / Node.js • Supabase (Postgres, Edge Functions, Auth) • AI-first development (CC, Cursor, Codex) • AI agents & automation (n8n, Chatwoot) • REST APIs & Webhooks
+
 **Familiar with:** Shopify • Python ML (scikit-learn, TensorFlow, PyTorch) • Organic social growth (TikTok, Instagram) • Git/GitHub • MCP
 
 > 💡 **TL;DR** – I’m a 2nd-year AI & Data student at **CentraleSupélec & ESSEC** and a builder who loves shipping end-to-end products.  
